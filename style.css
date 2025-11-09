@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+
+body {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+}
+
+:root {
+  --rose: 340 84% 72%;
+  --lilac: 267 50% 76%;
+  --peach: 18 92% 75%;
+  --mint: 160 55% 68%;
+  --sky: 204 86% 74%;
+}
